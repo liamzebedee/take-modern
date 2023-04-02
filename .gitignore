@@ -1,0 +1,8 @@
+build
+__pycache__
+.env
+lib
+
+results
+*.png
+env/*
